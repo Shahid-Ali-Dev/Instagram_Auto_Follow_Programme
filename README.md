@@ -20,5 +20,5 @@ This script logs into Instagram, opens your followers list, and automatically cl
 
 1. **Clone the repository (or download ZIP):**
    ```bash
-   git clone https://github.com/your-username/InstagramFollowerBot.git
-   cd InstagramFollowerBot
+   git clone https://github.com/Shahid-Ali-Dev/Instagram_Auto_Follow_Programme.git
+   cd Instagram_Auto_Follow_Programme
